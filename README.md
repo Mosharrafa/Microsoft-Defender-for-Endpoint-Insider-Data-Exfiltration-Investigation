@@ -1,0 +1,2 @@
+# Microsoft-Defender-for-Endpoint-Insider-Data-Exfiltration-Investigation
+Threat hunting investigation using MDE to analyze a suspected insider attempting data theft. Correlated process, file, and network telemetry with KQL, mapped activity to MITRE ATT&amp;CK, and determined the user staged sensitive data but failed to exfiltrate it. Demonstrates real SOC investigation workflow and response planning.
